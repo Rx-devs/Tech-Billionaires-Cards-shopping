@@ -1,0 +1,85 @@
+[{
+        "name": "Elon Musk",
+        "title": "CEO of Tesla Motors",
+        "age": 50,
+        "net_worth": 194.6,
+        "nationality": "American, South African, Canadian",
+        "source_of_wealth": "Tesla",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg"
+    },
+    {
+        "name": "Jeff Bezos ",
+        "title": "American entrepreneur",
+        "age": 57,
+        "net_worth": 196.3,
+        "source_of_wealth": "Amazon,",
+        "nationality": "American",
+        "img": "https://media.premiumtimesng.com/wp-content/files/2021/07/20150224165308-jeff-bezos-amazon.jpeg"
+    },
+    {
+        "name": "Bill Gates",
+        "title": "American business magnate",
+        "age": 65,
+        "net_worth": 131.2,
+        "source_of_wealth": " Microsoft",
+        "nationality": "American",
+        "img": "https://static.politico.com/9e/f5/81ba3fa24bd88ef41dc060b41148/20210208-bill-gates-773.jpg"
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "title": "Chief Executive Officer of Facebook",
+        "age": 37,
+        "net_worth": 122.7,
+        "source_of_wealth": "Facebook",
+        "nationality": "American, Mongolian",
+        "img": "https://www.biography.com/.image/t_share/MTQyMDA0NDYzNDQyMzM4ODc4/gettyimages-512304736jpg.jpg"
+    },
+    {
+        "name": "Larry Page",
+        "title": "Co-founders of Google",
+        "age": 48,
+        "net_worth": 91.5,
+        "source_of_wealth": "Google",
+        "nationality": "American",
+        "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5ODc2NTUzODU1ODcwOTY1/gettyimages-83414114.jpg"
+    },
+    {
+        "name": "Warren Buffett",
+        "title": "CEO of Berkshire Hathaway",
+        "age": 91,
+        "nationality": "American",
+        "net_worth": 99.4,
+        "source_of_wealth": "Berkshire Hathaway",
+        "img": "https://img.etimg.com/thumb/msid-85366917,width-650,imgsize-474403,,resizemode-4,quality-100/untitled-4.jpg"
+    },
+    {
+        "name": "Larry Ellison",
+        "title": "American businessman",
+        "age": 77,
+        "nationality": "American",
+        "net_worth": 114.3,
+        "source_of_wealth": "Oracle Corporation ",
+        "img": "https://www.channelfutures.com/files/2014/09/larry-ellison-oracle_0.jpg"
+    },
+    {
+        "name": "Sergey Brin",
+        "title": "Co-founders of Google",
+        "age": 48,
+        "net_worth": 115.8,
+        "source_of_wealth": " Google",
+        "nationality": "American",
+        "img": "https://www.biography.com/.image/t_share/MTc5ODc5NTMxMDczOTcxMzIy/gettyimages-456023687.jpg"
+    },
+
+
+    {
+        "name": "Mukesh Ambani",
+        "title": "Indian businessman",
+        "age": 64,
+        "occupation": "Chairman and MD, Reliance Industries",
+        "net_worth": 96,
+        "source_of_wealth": "Reliance Industries",
+        "nationality": "Indian",
+        "img": "https://www.india.com/wp-content/uploads/2020/09/mukesh-ambani-1591541820-2.jpg"
+    }
+]
