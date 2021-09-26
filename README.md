@@ -1,6 +1,6 @@
 # Tech Billionaries Cards
 
-Live Website Link - [Tech cards]().
+Live Website Link - [Tech Billionaries Cards](https://tech-billionaries-cards.netlify.app/).
 
 ## About the Website
 

@@ -25,7 +25,7 @@ const Persons = () => {
     }
     
     return (
-        <div className="container-fluid">
+        <div className="container-fluid container-style">
             <div className="row">
                 <div className="col-12 col-md-9">
                     {/* Billionaries Cards */}
@@ -45,9 +45,7 @@ const Persons = () => {
                         cart={cart}
                     ></Cart>
                 </div>
-            </div>
-            
-            
+            </div>           
         </div>
     );
 };
