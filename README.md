@@ -4,7 +4,9 @@ Live Website Link - [Tech cards]().
 
 ## About the Website
 
--> Top Tech billionaires cards collection
+* Top Tech billionaires cards collection.
+* Show Cards and buy the cards.
+* Increase knowledge about Tech billionaries.
 
 <!-- # Getting Started with Create React App
 

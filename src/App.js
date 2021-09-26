@@ -1,12 +1,13 @@
 import './App.css';
+import CardShop from './components/CardShop/CardShop';
 import Header from './components/Header/Header';
-import Persons from './components/Header/Persons/Persons';
+
 
 function App() {
   return (
     <div>
       <Header></Header>
-      <Persons></Persons>
+      <CardShop></CardShop>
     </div>
   );
 }

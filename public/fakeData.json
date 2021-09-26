@@ -5,7 +5,7 @@
         "net_worth": 194.6,
         "nationality": "American, South African, Canadian",
         "source_of_wealth": "Tesla",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg"
+        "img": "https://static.dezeen.com/uploads/2021/06/elon-musk-architect_dezeen_1704_col_0.jpg"
     },
     {
         "name": "Jeff Bezos ",
@@ -14,7 +14,7 @@
         "net_worth": 196.3,
         "source_of_wealth": "Amazon",
         "nationality": "American",
-        "img": "https://media.premiumtimesng.com/wp-content/files/2021/07/20150224165308-jeff-bezos-amazon.jpeg"
+        "img": "https://i.guim.co.uk/img/media/ef573276855d9e04aaed3dae615757a8725e52d9/297_329_2974_1784/master/2974.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=0138f94d134e8d57a81851aeef3ae881"
     },
     {
         "name": "Bill Gates",
@@ -32,7 +32,7 @@
         "net_worth": 122.7,
         "source_of_wealth": "Facebook",
         "nationality": "American, Mongolian",
-        "img": "https://www.biography.com/.image/t_share/MTQyMDA0NDYzNDQyMzM4ODc4/gettyimages-512304736jpg.jpg"
+        "img": "https://kep.cdn.indexvas.hu/1/0/3309/33093/330932/33093238_2536060_a4696741f8c9ebeb720588f003b5fe8a_wm.jpg"
     },
     {
         "name": "Larry Page",
@@ -59,7 +59,7 @@
         "nationality": "American",
         "net_worth": 114.3,
         "source_of_wealth": "Oracle Corporation ",
-        "img": "https://www.channelfutures.com/files/2014/09/larry-ellison-oracle_0.jpg"
+        "img": "http://cdn.cnwimg.com/wp-content/uploads/2009/09/larry-ellison-775x1024.jpg"
     },
     {
         "name": "Sergey Brin",
@@ -80,6 +80,6 @@
         "net_worth": 96,
         "source_of_wealth": "Reliance Industries",
         "nationality": "Indian",
-        "img": "https://www.india.com/wp-content/uploads/2020/09/mukesh-ambani-1591541820-2.jpg"
+        "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/Freedom-Business-Aug30-5.jpg?wgPn7ZIETBu7JB9_OM8XRMiM.xJwWr4f&size=770:433"
     }
 ]

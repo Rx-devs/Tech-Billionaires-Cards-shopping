@@ -18,9 +18,9 @@ const Persons = () => {
     }
     
     return (
-        <div className="container">
+        <div className="container-fluid">
             <div className="row">
-                <div className="col-12 col-md-9 g-0">
+                <div className="col-12 col-md-9">
                     <div className="row row-cols-1 row-cols-md-3 g-3">
                     {
                         persons.map(person => <Person
@@ -31,7 +31,7 @@ const Persons = () => {
                     }
                     </div>
                 </div>
-                <div className="col-12 col-md-3 g-0">
+                <div className="col-12 col-md-3">
                     <Cart
                         cart={cart}
                     ></Cart>
