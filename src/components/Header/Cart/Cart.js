@@ -1,5 +1,6 @@
 import React from 'react';
 import NamesCard from '../../NamesCard/NamesCard';
+import './Cart.css';
 
 const Cart = (props) => {
     const { cart } = props;
@@ -12,11 +13,14 @@ const Cart = (props) => {
     }
 
     return (
-        <div className="mx-3 border border-3 p-3 rounded">
-            <h3>Add to Cart</h3>
-            <p>Cards Collected: {cart.length}</p>
-            <p>Total Net Worth: {total.toFixed(2)}</p>
-            <div className="text-center">
+        <div>
+            <div className="mx-3 mb-4 border border-1 px-3 py-4 rounded cart">
+                <h3 className="text-center mb-4">Add to Cart</h3>
+                <p>Cards Collected: {cart.length}</p>
+                <p>Total Net Worth: $ {total.toFixed(2)} billion</p>
+                <button className="btn btn-outline-danger w-100">Buy Card</button>
+            </div>
+            <div className="mx-5 names-card">
                 {
                     nameAdded.map(name => <NamesCard
                         name={name}
